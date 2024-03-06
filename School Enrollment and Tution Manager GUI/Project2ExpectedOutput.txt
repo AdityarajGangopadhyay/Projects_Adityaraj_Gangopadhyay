@@ -1,0 +1,278 @@
+Tuition Manager running...
+
+an is an invalid command!
+ar is an invalid command!
+at is an invalid command!
+ai is an invalid command!
+p is an invalid command!
+r is an invalid command!
+c is an invalid command!
+s is an invalid command!
+ps is an invalid command!
+pc is an invalid command!
+pt is an invalid command!
+pe is an invalid command!
+Student roster is empty!
+l is an invalid command!
+ls is an invalid command!
+se is an invalid command!
+d is an invalid command!
+e is an invalid command!
+Student roster is empty!
+Student roster is empty!
+Student roster is empty!
+blah is an invalid command!
+x is an invalid command!
+Missing data in line command.
+Missing data in line command.
+Missing data in line command.
+Missing data in line command.
+Students loaded to the roster.
+** Student roster sorted by last name, first name, DOB **
+Roy Brooks 8/8/1999 (01:640 MATH SAS) credits completed: 111 (Senior)(non-resident)(tri-state:CT)
+Roy Brooks 9/9/1999 (04:547 ITI SC&I) credits completed: 100 (Senior)(non-resident)
+Carl Brown 10/7/2004 (01:198 CS SAS) credits completed: 75 (Junior)(resident)
+Jane Doe 5/1/1996 (01:198 CS SAS) credits completed: 30 (Sophomore)(resident)
+John Doe 1/20/2003 (33:136 BAIT RBS) credits completed: 60 (Junior)(non-resident)
+John Doe 4/3/2003 (01:198 CS SAS) credits completed: 29 (Freshman)(non-resident)(international)
+John Doe 12/20/2004 (14:332 EE SOE) credits completed: 45 (Sophomore)(non-resident)(tri-state:NY)
+John Doe 1/2/2007 (14:332 EE SOE) credits completed: 20 (Freshman)(resident)
+Duke Ellington 2/29/2004 (01:640 MATH SAS) credits completed: 46 (Sophomore)(non-resident)(tri-state:NY)
+Kate Lindsey 7/15/2002 (04:547 ITI SC&I) credits completed: 59 (Sophomore)(non-resident)
+Mary Lindsey 12/1/2001 (33:136 BAIT RBS) credits completed: 89 (Junior)(non-resident)(international)
+April March 3/31/2000 (33:136 BAIT RBS) credits completed: 0 (Freshman)(non-resident)(international:study abroad)
+Bill Scanlan 5/1/1999 (01:198 CS SAS) credits completed: 120 (Senior)(non-resident)(international)
+Paul Siegel 5/1/2000 (01:198 CS SAS) credits completed: 90 (Senior)(resident)
+* end of roster *
+DOB invalid: 9/2/2022 younger than 16 years old.
+John Doe 1/2/2007 is already in the roster.
+DOB invalid: 3/20/2007 younger than 16 years old.
+John Doe 12/20/2004 is already in the roster.
+DOB invalid: 2/29/2003 not a valid calendar date!
+DOB invalid: 4/31/2003 not a valid calendar date!
+DOB invalid: 3/32/2003 not a valid calendar date!
+DOB invalid: -1/31/2003 not a valid calendar date!
+DOB invalid: 13/31/2003 not a valid calendar date!
+John Doe 1/20/2003 is already in the roster.
+Credits completed invalid: not an integer!
+Credits completed invalid: cannot be negative!
+Missing data in command line.
+XX: Invalid state code.
+Missing the state code.
+Emma Miller 2/28/2003 added to the roster.
+Emma Miller 2/28/2003 is already in the roster.
+Sunny Patel 9/2/2005 added to the roster.
+Emma Miller 2/28/2003 is already in the roster.
+Emily Johnson 6/1/2005 added to the roster.
+Sophia Jones 12/31/2001 added to the roster.
+Missing data in line command.
+Ava Lin 1/1/2001 added to the roster.
+Ava Lin 1/1/2001 is already in the roster.
+Oliver Chang 11/30/2000 added to the roster.
+Oliver Chang 11/30/2000 is already in the roster.
+Mia Diaz 6/30/2002 added to the roster.
+Dylan Perez 12/1/2000 added to the roster.
+Leo Jones 4/21/2006 added to the roster.
+** Student roster sorted by last name, first name, DOB **
+Roy Brooks 8/8/1999 (01:640 MATH SAS) credits completed: 111 (Senior)(non-resident)(tri-state:CT)
+Roy Brooks 9/9/1999 (04:547 ITI SC&I) credits completed: 100 (Senior)(non-resident)
+Carl Brown 10/7/2004 (01:198 CS SAS) credits completed: 75 (Junior)(resident)
+Oliver Chang 11/30/2000 (33:136 BAIT RBS) credits completed: 78 (Junior)(non-resident)(international)
+Mia Diaz 6/30/2002 (33:136 BAIT RBS) credits completed: 0 (Freshman)(non-resident)(international:study abroad)
+Jane Doe 5/1/1996 (01:198 CS SAS) credits completed: 30 (Sophomore)(resident)
+John Doe 1/20/2003 (33:136 BAIT RBS) credits completed: 60 (Junior)(non-resident)
+John Doe 4/3/2003 (01:198 CS SAS) credits completed: 29 (Freshman)(non-resident)(international)
+John Doe 12/20/2004 (14:332 EE SOE) credits completed: 45 (Sophomore)(non-resident)(tri-state:NY)
+John Doe 1/2/2007 (14:332 EE SOE) credits completed: 20 (Freshman)(resident)
+Duke Ellington 2/29/2004 (01:640 MATH SAS) credits completed: 46 (Sophomore)(non-resident)(tri-state:NY)
+Emily Johnson 6/1/2005 (04:547 ITI SC&I) credits completed: 40 (Sophomore)(non-resident)(tri-state:CT)
+Leo Jones 4/21/2006 (04:547 ITI SC&I) credits completed: 20 (Freshman)(non-resident)
+Sophia Jones 12/31/2001 (01:640 MATH SAS) credits completed: 69 (Junior)(non-resident)(tri-state:CT)
+Ava Lin 1/1/2001 (14:332 EE SOE) credits completed: 109 (Senior)(non-resident)(international)
+Kate Lindsey 7/15/2002 (04:547 ITI SC&I) credits completed: 59 (Sophomore)(non-resident)
+Mary Lindsey 12/1/2001 (33:136 BAIT RBS) credits completed: 89 (Junior)(non-resident)(international)
+April March 3/31/2000 (33:136 BAIT RBS) credits completed: 0 (Freshman)(non-resident)(international:study abroad)
+Emma Miller 2/28/2003 (01:198 CS SAS) credits completed: 15 (Freshman)(non-resident)(tri-state:NY)
+Sunny Patel 9/2/2005 (01:640 MATH SAS) credits completed: 0 (Freshman)(non-resident)(tri-state:NY)
+Dylan Perez 12/1/2000 (04:547 ITI SC&I) credits completed: 99 (Senior)(non-resident)(international)
+Bill Scanlan 5/1/1999 (01:198 CS SAS) credits completed: 120 (Senior)(non-resident)(international)
+Paul Siegel 5/1/2000 (01:198 CS SAS) credits completed: 90 (Senior)(resident)
+* end of roster *
+John Doe 4/3/2003 removed from the roster.
+John Doe 4/3/2003 is not in the roster.
+** Student roster sorted by standing **
+Mia Diaz 6/30/2002 (33:136 BAIT RBS) credits completed: 0 (Freshman)(non-resident)(international:study abroad)
+John Doe 1/2/2007 (14:332 EE SOE) credits completed: 20 (Freshman)(resident)
+Leo Jones 4/21/2006 (04:547 ITI SC&I) credits completed: 20 (Freshman)(non-resident)
+April March 3/31/2000 (33:136 BAIT RBS) credits completed: 0 (Freshman)(non-resident)(international:study abroad)
+Emma Miller 2/28/2003 (01:198 CS SAS) credits completed: 15 (Freshman)(non-resident)(tri-state:NY)
+Sunny Patel 9/2/2005 (01:640 MATH SAS) credits completed: 0 (Freshman)(non-resident)(tri-state:NY)
+John Doe 1/20/2003 (33:136 BAIT RBS) credits completed: 60 (Junior)(non-resident)
+Carl Brown 10/7/2004 (01:198 CS SAS) credits completed: 75 (Junior)(resident)
+Sophia Jones 12/31/2001 (01:640 MATH SAS) credits completed: 69 (Junior)(non-resident)(tri-state:CT)
+Mary Lindsey 12/1/2001 (33:136 BAIT RBS) credits completed: 89 (Junior)(non-resident)(international)
+Oliver Chang 11/30/2000 (33:136 BAIT RBS) credits completed: 78 (Junior)(non-resident)(international)
+Roy Brooks 9/9/1999 (04:547 ITI SC&I) credits completed: 100 (Senior)(non-resident)
+Ava Lin 1/1/2001 (14:332 EE SOE) credits completed: 109 (Senior)(non-resident)(international)
+Roy Brooks 8/8/1999 (01:640 MATH SAS) credits completed: 111 (Senior)(non-resident)(tri-state:CT)
+Dylan Perez 12/1/2000 (04:547 ITI SC&I) credits completed: 99 (Senior)(non-resident)(international)
+Bill Scanlan 5/1/1999 (01:198 CS SAS) credits completed: 120 (Senior)(non-resident)(international)
+Paul Siegel 5/1/2000 (01:198 CS SAS) credits completed: 90 (Senior)(resident)
+John Doe 12/20/2004 (14:332 EE SOE) credits completed: 45 (Sophomore)(non-resident)(tri-state:NY)
+Jane Doe 5/1/1996 (01:198 CS SAS) credits completed: 30 (Sophomore)(resident)
+Kate Lindsey 7/15/2002 (04:547 ITI SC&I) credits completed: 59 (Sophomore)(non-resident)
+Duke Ellington 2/29/2004 (01:640 MATH SAS) credits completed: 46 (Sophomore)(non-resident)(tri-state:NY)
+Emily Johnson 6/1/2005 (04:547 ITI SC&I) credits completed: 40 (Sophomore)(non-resident)(tri-state:CT)
+* end of roster *
+** Student roster sorted by school, major **
+Mia Diaz 6/30/2002 (33:136 BAIT RBS) credits completed: 0 (Freshman)(non-resident)(international:study abroad)
+April March 3/31/2000 (33:136 BAIT RBS) credits completed: 0 (Freshman)(non-resident)(international:study abroad)
+John Doe 1/20/2003 (33:136 BAIT RBS) credits completed: 60 (Junior)(non-resident)
+Mary Lindsey 12/1/2001 (33:136 BAIT RBS) credits completed: 89 (Junior)(non-resident)(international)
+Oliver Chang 11/30/2000 (33:136 BAIT RBS) credits completed: 78 (Junior)(non-resident)(international)
+Carl Brown 10/7/2004 (01:198 CS SAS) credits completed: 75 (Junior)(resident)
+Emma Miller 2/28/2003 (01:198 CS SAS) credits completed: 15 (Freshman)(non-resident)(tri-state:NY)
+Bill Scanlan 5/1/1999 (01:198 CS SAS) credits completed: 120 (Senior)(non-resident)(international)
+Paul Siegel 5/1/2000 (01:198 CS SAS) credits completed: 90 (Senior)(resident)
+Jane Doe 5/1/1996 (01:198 CS SAS) credits completed: 30 (Sophomore)(resident)
+Roy Brooks 8/8/1999 (01:640 MATH SAS) credits completed: 111 (Senior)(non-resident)(tri-state:CT)
+Sunny Patel 9/2/2005 (01:640 MATH SAS) credits completed: 0 (Freshman)(non-resident)(tri-state:NY)
+Sophia Jones 12/31/2001 (01:640 MATH SAS) credits completed: 69 (Junior)(non-resident)(tri-state:CT)
+Duke Ellington 2/29/2004 (01:640 MATH SAS) credits completed: 46 (Sophomore)(non-resident)(tri-state:NY)
+Dylan Perez 12/1/2000 (04:547 ITI SC&I) credits completed: 99 (Senior)(non-resident)(international)
+Roy Brooks 9/9/1999 (04:547 ITI SC&I) credits completed: 100 (Senior)(non-resident)
+Kate Lindsey 7/15/2002 (04:547 ITI SC&I) credits completed: 59 (Sophomore)(non-resident)
+Leo Jones 4/21/2006 (04:547 ITI SC&I) credits completed: 20 (Freshman)(non-resident)
+Emily Johnson 6/1/2005 (04:547 ITI SC&I) credits completed: 40 (Sophomore)(non-resident)(tri-state:CT)
+Ava Lin 1/1/2001 (14:332 EE SOE) credits completed: 109 (Senior)(non-resident)(international)
+John Doe 12/20/2004 (14:332 EE SOE) credits completed: 45 (Sophomore)(non-resident)(tri-state:NY)
+John Doe 1/2/2007 (14:332 EE SOE) credits completed: 20 (Freshman)(resident)
+* end of roster *
+Carl Brown 10/7/2003 is not in the roster.
+Major code invalid: BB
+Carl Brown 10/7/2004 major changed to BAIT
+** Student roster sorted by school, major **
+Mia Diaz 6/30/2002 (33:136 BAIT RBS) credits completed: 0 (Freshman)(non-resident)(international:study abroad)
+April March 3/31/2000 (33:136 BAIT RBS) credits completed: 0 (Freshman)(non-resident)(international:study abroad)
+John Doe 1/20/2003 (33:136 BAIT RBS) credits completed: 60 (Junior)(non-resident)
+Mary Lindsey 12/1/2001 (33:136 BAIT RBS) credits completed: 89 (Junior)(non-resident)(international)
+Oliver Chang 11/30/2000 (33:136 BAIT RBS) credits completed: 78 (Junior)(non-resident)(international)
+Carl Brown 10/7/2004 (33:136 BAIT RBS) credits completed: 75 (Junior)(resident)
+Emma Miller 2/28/2003 (01:198 CS SAS) credits completed: 15 (Freshman)(non-resident)(tri-state:NY)
+Bill Scanlan 5/1/1999 (01:198 CS SAS) credits completed: 120 (Senior)(non-resident)(international)
+Paul Siegel 5/1/2000 (01:198 CS SAS) credits completed: 90 (Senior)(resident)
+Jane Doe 5/1/1996 (01:198 CS SAS) credits completed: 30 (Sophomore)(resident)
+Roy Brooks 8/8/1999 (01:640 MATH SAS) credits completed: 111 (Senior)(non-resident)(tri-state:CT)
+Sunny Patel 9/2/2005 (01:640 MATH SAS) credits completed: 0 (Freshman)(non-resident)(tri-state:NY)
+Sophia Jones 12/31/2001 (01:640 MATH SAS) credits completed: 69 (Junior)(non-resident)(tri-state:CT)
+Duke Ellington 2/29/2004 (01:640 MATH SAS) credits completed: 46 (Sophomore)(non-resident)(tri-state:NY)
+Dylan Perez 12/1/2000 (04:547 ITI SC&I) credits completed: 99 (Senior)(non-resident)(international)
+Roy Brooks 9/9/1999 (04:547 ITI SC&I) credits completed: 100 (Senior)(non-resident)
+Kate Lindsey 7/15/2002 (04:547 ITI SC&I) credits completed: 59 (Sophomore)(non-resident)
+Leo Jones 4/21/2006 (04:547 ITI SC&I) credits completed: 20 (Freshman)(non-resident)
+Emily Johnson 6/1/2005 (04:547 ITI SC&I) credits completed: 40 (Sophomore)(non-resident)(tri-state:CT)
+Ava Lin 1/1/2001 (14:332 EE SOE) credits completed: 109 (Senior)(non-resident)(international)
+John Doe 12/20/2004 (14:332 EE SOE) credits completed: 45 (Sophomore)(non-resident)(tri-state:NY)
+John Doe 1/2/2007 (14:332 EE SOE) credits completed: 20 (Freshman)(resident)
+* end of roster *
+Enrollment is empty!
+Missing data in line command.
+Credits enrolled is not an integer.
+Cannot enroll: Carl Brown 10/17/2004 is not in the roster.
+(Resident) 1: invalid credit hours.
+Carl Brown 10/7/2004 enrolled 3 credits
+Carl Brown 10/7/2004 enrolled 24 credits
+(Resident) 25: invalid credit hours.
+John Doe 1/2/2007 enrolled 11 credits
+Jane Doe 5/1/1996 enrolled 16 credits
+(Non-Resident) 1: invalid credit hours.
+Kate Lindsey 7/15/2002 enrolled 3 credits
+Kate Lindsey 7/15/2002 enrolled 24 credits
+(Non-Resident) 25: invalid credit hours.
+Kate Lindsey 7/15/2002 enrolled 6 credits
+Roy Brooks 9/9/1999 enrolled 18 credits
+John Doe 1/20/2003 enrolled 14 credits
+(International student) 9: invalid credit hours.
+Ava Lin 1/1/2001 enrolled 12 credits
+(International studentstudy abroad) 13: invalid credit hours.
+Mia Diaz 6/30/2002 enrolled 9 credits
+April March 3/31/2000 enrolled 3 credits
+Bill Scanlan 5/1/1999 enrolled 21 credits
+Roy Brooks 8/8/1999 enrolled 16 credits
+Sophia Jones 12/31/2001 enrolled 23 credits
+Emily Johnson 6/1/2005 enrolled 10 credits
+Emma Miller 2/28/2003 enrolled 8 credits
+Duke Ellington 2/29/2004 enrolled 14 credits
+Sunny Patel 9/2/2005 enrolled 20 credits
+** Enrollment **
+Carl Brown 10/7/2004: credits enrolled: 24
+John Doe 1/2/2007: credits enrolled: 11
+Jane Doe 5/1/1996: credits enrolled: 16
+Kate Lindsey 7/15/2002: credits enrolled: 6
+Roy Brooks 9/9/1999: credits enrolled: 18
+John Doe 1/20/2003: credits enrolled: 14
+Ava Lin 1/1/2001: credits enrolled: 12
+Mia Diaz 6/30/2002: credits enrolled: 9
+April March 3/31/2000: credits enrolled: 3
+Bill Scanlan 5/1/1999: credits enrolled: 21
+Roy Brooks 8/8/1999: credits enrolled: 16
+Sophia Jones 12/31/2001: credits enrolled: 23
+Emily Johnson 6/1/2005: credits enrolled: 10
+Emma Miller 2/28/2003: credits enrolled: 8
+Duke Ellington 2/29/2004: credits enrolled: 14
+Sunny Patel 9/2/2005: credits enrolled: 20
+* end of enrollment *
+John Doe 11/2/2005 is not enrolled.
+John Doe 1/2/2007 dropped.
+John Doe 1/2/2007 enrolled 11 credits
+** Tuition due **
+Carl Brown 10/7/2004 (Resident) enrolled 24 credits: tuition due: $19,036.00
+Sunny Patel 9/2/2005 (Tri-state NY) enrolled 20 credits: tuition due: $32,869.00
+Jane Doe 5/1/1996 (Resident) enrolled 16 credits: tuition due: $15,804.00
+Kate Lindsey 7/15/2002 (Non-Resident) enrolled 6 credits: tuition due: $8,410.40
+Roy Brooks 9/9/1999 (Non-Resident) enrolled 18 credits: tuition due: $34,937.00
+John Doe 1/20/2003 (Non-Resident) enrolled 14 credits: tuition due: $33,005.00
+Ava Lin 1/1/2001 (International student) enrolled 12 credits: tuition due: $35,655.00
+Mia Diaz 6/30/2002 (International studentstudy abroad) enrolled 9 credits: tuition due: $5,918.00
+April March 3/31/2000 (International studentstudy abroad) enrolled 3 credits: tuition due: $5,918.00
+Bill Scanlan 5/1/1999 (International student) enrolled 21 credits: tuition due: $40,485.00
+Roy Brooks 8/8/1999 (Tri-state CT) enrolled 16 credits: tuition due: $28,005.00
+Sophia Jones 12/31/2001 (Tri-state CT) enrolled 23 credits: tuition due: $34,767.00
+Emily Johnson 6/1/2005 (Tri-state CT) enrolled 10 credits: tuition due: $12,274.40
+Emma Miller 2/28/2003 (Tri-state NY) enrolled 8 credits: tuition due: $10,342.40
+Duke Ellington 2/29/2004 (Tri-state NY) enrolled 14 credits: tuition due: $29,005.00
+John Doe 1/2/2007 (Resident) enrolled 11 credits: tuition due: $7,058.40
+* end of tuition due *
+Missing data in line command.
+Roy Brooks 9/9/1999 (Non-Resident) is not eligible for the scholarship.
+Carl Brown 10/17/2004 is not in the roster.
+10001: invalid amount.
+0: invalid amount.
+Amount is not an integer.
+Carl Brown 10/7/2004: scholarship amount updated.
+John Doe 1/2/2007 part time student is not eligible for the scholarship.
+** Tuition due **
+Carl Brown 10/7/2004 (Resident) enrolled 24 credits: tuition due: $9,036.00
+Sunny Patel 9/2/2005 (Tri-state NY) enrolled 20 credits: tuition due: $32,869.00
+Jane Doe 5/1/1996 (Resident) enrolled 16 credits: tuition due: $15,804.00
+Kate Lindsey 7/15/2002 (Non-Resident) enrolled 6 credits: tuition due: $8,410.40
+Roy Brooks 9/9/1999 (Non-Resident) enrolled 18 credits: tuition due: $34,937.00
+John Doe 1/20/2003 (Non-Resident) enrolled 14 credits: tuition due: $33,005.00
+Ava Lin 1/1/2001 (International student) enrolled 12 credits: tuition due: $35,655.00
+Mia Diaz 6/30/2002 (International studentstudy abroad) enrolled 9 credits: tuition due: $5,918.00
+April March 3/31/2000 (International studentstudy abroad) enrolled 3 credits: tuition due: $5,918.00
+Bill Scanlan 5/1/1999 (International student) enrolled 21 credits: tuition due: $40,485.00
+Roy Brooks 8/8/1999 (Tri-state CT) enrolled 16 credits: tuition due: $28,005.00
+Sophia Jones 12/31/2001 (Tri-state CT) enrolled 23 credits: tuition due: $34,767.00
+Emily Johnson 6/1/2005 (Tri-state CT) enrolled 10 credits: tuition due: $12,274.40
+Emma Miller 2/28/2003 (Tri-state NY) enrolled 8 credits: tuition due: $10,342.40
+Duke Ellington 2/29/2004 (Tri-state NY) enrolled 14 credits: tuition due: $29,005.00
+John Doe 1/2/2007 (Resident) enrolled 11 credits: tuition due: $7,058.40
+* end of tuition due *
+Credit completed has been updated.
+** list of students eligible for graduation **
+Bill Scanlan 5/1/1999 (01:198 CS SAS) credits completed: 141 (Senior)(non-resident)(international)
+Roy Brooks 8/8/1999 (01:640 MATH SAS) credits completed: 127 (Senior)(non-resident)(tri-state:CT)
+Ava Lin 1/1/2001 (14:332 EE SOE) credits completed: 121 (Senior)(non-resident)(international)
+q is an invalid command!
+Tuition Manager terminated.

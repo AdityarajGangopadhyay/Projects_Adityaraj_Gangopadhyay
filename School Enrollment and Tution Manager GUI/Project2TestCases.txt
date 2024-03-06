@@ -1,0 +1,131 @@
+an
+ar
+at
+ai
+p
+r
+c
+s
+ps
+pc
+pt
+pe
+P
+l
+ls
+se
+d
+e
+PS
+PC
+PT
+blah
+x
+AR
+AT
+AI
+AN
+
+
+LS studentList.txt
+P
+
+AR John Doe 9/2/2022 EE 10
+AR John Doe 1/2/2007 EE 20
+AR John Doe 3/20/2007 EE 20 
+AR John Doe 12/20/2004 EE 45 
+AR John Doe 2/29/2003 EE 105 
+AR John Doe 4/31/2003  EE 105
+AR John Doe 3/32/2003  EE 105
+AR John Doe -1/31/2003  EE 105
+AR John Doe 13/31/2003  CS 29
+AR John Doe 1/20/2003  bait 60
+AR April Doe 1/20/2003   EE AA
+AR April Doe 1/20/2003   EE -1
+
+AT Emma Miller 2/28/2003
+AT Emma Miller 2/28/2003 CS 15 XX
+AT Emma Miller 2/28/2003 CS 15
+AT Emma Miller 2/28/2003 CS 15 NY
+AT Emma Miller 2/28/2003 CS 15 NY
+AT Sunny Patel 9/2/2005 MATH 0 NY
+AT Emma Miller 2/28/2003 CS 15 CT
+AT Emily Johnson 6/1/2005 iti 40 ct
+AT Sophia Jones 12/31/2001 MATH 69 ct
+AI Ava Lin
+AI Ava Lin 1/1/2001 ee 109
+AI Ava Lin 1/1/2001 ee 109
+AI Oliver Chang 11/30/2000 BAIT 78
+AI Oliver Chang 11/30/2000 BAIT 78 true
+AI Mia Diaz 6/30/2002 BAIT 0 true
+AI Dylan Perez 12/1/2000 ITI 99 false
+AN Leo Jones 4/21/2006 ITI 20
+P
+R John Doe 4/3/2003
+R John Doe 4/3/2003
+PS
+PC
+C Carl Brown 10/7/2003 BAIT
+C Carl Brown 10/7/2004 BB
+C Carl Brown 10/7/2004 BAIT
+PC
+
+PE
+E Carl Brown 10/7/2004
+E Carl Brown 10/7/2004 XX
+E Carl Brown 10/17/2004 10
+E Carl Brown 10/7/2004 1
+E Carl Brown 10/7/2004 3
+E Carl Brown 10/7/2004 24
+E Carl Brown 10/7/2004 25
+E John Doe 1/2/2007 11
+E Jane Doe 5/1/1996 16
+E Kate Lindsey 7/15/2002 1
+E Kate Lindsey 7/15/2002 3
+E Kate Lindsey 7/15/2002 24
+E Kate Lindsey 7/15/2002 25
+E Kate Lindsey 7/15/2002 6
+E Roy Brooks 9/9/1999 18
+E John Doe 1/20/2003 14
+E Ava Lin 1/1/2001 9
+E Ava Lin 1/1/2001 12
+E Mia Diaz 6/30/2002 13
+E Mia Diaz 6/30/2002 9
+E April March 3/31/2000 3
+E Bill Scanlan 5/1/1999 21
+E Roy Brooks 8/8/1999 16
+E Sophia Jones 12/31/2001 23
+E Emily Johnson 6/1/2005 10
+E Emma Miller 2/28/2003 8
+E Duke Ellington 2/29/2004 14
+E Sunny Patel 9/2/2005 20
+PE
+D John Doe 11/2/2005
+D John Doe 1/2/2007
+E John Doe 1/2/2007 11
+PT
+S
+S Roy Brooks 9/9/1999 10000
+S Carl Brown 10/17/2004
+S Carl Brown 10/7/2004 10001
+S Carl Brown 10/7/2004 0
+S Carl Brown 10/7/2004 xxx
+S Carl Brown 10/7/2004 10000
+S John Doe 1/2/2007 800
+PT
+
+SE
+q
+Q
+This line is a garbage line to test the Q command.
+
+
+
+
+
+
+
+
+
+
+

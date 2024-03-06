@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9233d62-2108-4d6f-9d7f-71867471c6f6" name="Changes" comment="FINAL REPO WITH JAVADOC AND TEST SPECIFICATION">
+      <change afterPath="$PROJECT_DIR$/../demoJavaFX/demoJavaFX.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/Project2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/Project2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/Project2ExpectedOutput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/Project2ExpectedOutput.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/Project2TestCases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/Project2TestCases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/mainpackage/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/mainpackage/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/mainpackage/Major.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/mainpackage/Major.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/mainpackage/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/mainpackage/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/mainpackage/Roster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/mainpackage/Roster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/mainpackage/RosterManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/mainpackage/RunProject1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/mainpackage/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/mainpackage/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/studentList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/studentList.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N46P4nRGLEksyuNRoOS6O6WwGh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/School_Work/Rutgers/Computer_Science/CS213-Software_Methodology/Project2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\School_Work\Rutgers\Computer_Science\CS213-Software_Methodology\Project3\src" />
+      <recent name="C:\School_Work\Rutgers\Computer_Science\CS213-Software_Methodology\Project3\src\main\resources\mainpackage\project3" />
+      <recent name="C:\School_Work\Rutgers\Computer_Science\CS213-Software_Methodology\Project3\src\main\java\mainpackage\project3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\School_Work\Rutgers\Computer_Science\CS213-Software_Methodology\Project3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mainpackage.project3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9233d62-2108-4d6f-9d7f-71867471c6f6" name="Changes" comment="" />
+      <created>1678910985228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678910985228</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Project 2 Files">
+      <created>1678911411273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678911411273</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Base Starting">
+      <created>1678911777693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678911777693</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Name Changes">
+      <created>1678912996014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678912996015</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Minor Changes">
+      <created>1678921914301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678921914301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Some More Minor Changes/Messing Around">
+      <created>1678932905615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678932905615</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GUI Changes">
+      <created>1679006953796</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679006953797</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added some Comments">
+      <created>1679007617110</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679007617110</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Some More GUI changes">
+      <created>1679008253649</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679008253649</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Unfinished">
+      <created>1679012790342</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679012790342</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commented Out">
+      <created>1679017494610</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679017494610</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Integrated new UI with existing code.">
+      <created>1679086319589</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679086319589</updated>
+    </task>
+    <task id="LOCAL-00012" summary="FXID for textArea">
+      <created>1679086775492</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679086775492</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Date cannot be Typed Incorrectly Anymore">
+      <created>1679086883774</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679086883774</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Date cannot be Typed Incorrectly Anymore On All Tabs">
+      <created>1679087212720</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679087212720</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Enrollment Feature Added">
+      <created>1679090117896</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679090117896</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Drop Feature Added">
+      <created>1679090592409</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679090592409</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Integrated UI">
+      <created>1679167894224</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679167894224</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Roster and Enroll Working Fully (Needs to be tested)">
+      <created>1679182879770</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679182879770</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Roster and Enroll Working Fully (Needs to be tested)">
+      <created>1679183345453</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679183345453</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fixed fxid for text area. One Shared Text Area">
+      <created>1679185362814</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679185362814</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added Scholarship Functionality">
+      <created>1679186844629</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679186844629</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Final Code">
+      <created>1679261275426</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679261275426</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Final Code with old stuff removed and comments added.">
+      <created>1679262315656</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679262315656</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Removed extra system.out">
+      <created>1679263269080</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679263269080</updated>
+    </task>
+    <task id="LOCAL-00025" summary="FINAL REPO WITH JAVADOC AND TEST SPECIFICATION">
+      <created>1679272186291</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679272186291</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Project 2 Files" />
+    <MESSAGE value="Base Starting" />
+    <MESSAGE value="Name Changes" />
+    <MESSAGE value="Minor Changes" />
+    <MESSAGE value="Some More Minor Changes/Messing Around" />
+    <MESSAGE value="GUI Changes" />
+    <MESSAGE value="Added some Comments" />
+    <MESSAGE value="Some More GUI changes" />
+    <MESSAGE value="Unfinished" />
+    <MESSAGE value="Commented Out" />
+    <MESSAGE value="Integrated new UI with existing code." />
+    <MESSAGE value="FXID for textArea" />
+    <MESSAGE value="Date cannot be Typed Incorrectly Anymore" />
+    <MESSAGE value="Date cannot be Typed Incorrectly Anymore On All Tabs" />
+    <MESSAGE value="Enrollment Feature Added" />
+    <MESSAGE value="Drop Feature Added" />
+    <MESSAGE value="Integrated UI" />
+    <MESSAGE value="Roster and Enroll Working Fully (Needs to be tested)" />
+    <MESSAGE value="Fixed fxid for text area. One Shared Text Area" />
+    <MESSAGE value="Added Scholarship Functionality" />
+    <MESSAGE value="Final Code" />
+    <MESSAGE value="Final Code with old stuff removed and comments added." />
+    <MESSAGE value="Removed extra system.out" />
+    <MESSAGE value="FINAL REPO WITH JAVADOC AND TEST SPECIFICATION" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINAL REPO WITH JAVADOC AND TEST SPECIFICATION" />
+  </component>
+</project>
