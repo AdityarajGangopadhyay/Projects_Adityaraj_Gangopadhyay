@@ -1,0 +1,385 @@
+Maze Number: 1
+Forwards Repeated A* took, Large Values: (True, 17, 747)
+Forwards Repeated A* took, Small Values: (True, 57, 3437)
+Backwards Repeated A* took, Large Values: (True, 12, 480)
+Adaptive Repeated A* took, Large Values: (True, 16, 745)
+Backwards Repeated A* took, Small Values: (True, 127, 6799)
+Adaptive Repeated A* took, Small Values: (True, 63, 3426)
+
+Maze Number: 2
+Forwards Repeated A* took, Large Values: (True, 9, 412)
+Forwards Repeated A* took, Small Values: (True, 34, 2223)
+Backwards Repeated A* took, Large Values: (True, 6, 333)
+Adaptive Repeated A* took, Large Values: (True, 9, 412)
+Backwards Repeated A* took, Small Values: (True, 27, 1841)
+Adaptive Repeated A* took, Small Values: (True, 33, 2222)
+
+Maze Number: 3
+Forwards Repeated A* took, Large Values: (True, 66, 2984)
+Forwards Repeated A* took, Small Values: (True, 539, 32781)
+Backwards Repeated A* took, Large Values: (True, 38, 1708)
+Adaptive Repeated A* took, Large Values: (True, 67, 3117)
+Backwards Repeated A* took, Small Values: (True, 518, 28700)
+Adaptive Repeated A* took, Small Values: (True, 588, 32778)
+
+Maze Number: 4
+Forwards Repeated A* took, Large Values: (True, 67, 3400)
+Forwards Repeated A* took, Small Values: (True, 197, 14042)
+Backwards Repeated A* took, Large Values: (True, 27, 1445)
+Adaptive Repeated A* took, Large Values: (True, 63, 3221)
+Backwards Repeated A* took, Small Values: (True, 130, 9054)
+Adaptive Repeated A* took, Small Values: (True, 198, 13923)
+
+Maze Number: 5
+Forwards Repeated A* took, Large Values: (True, 13, 735)
+Forwards Repeated A* took, Small Values: (True, 58, 4319)
+Backwards Repeated A* took, Large Values: (True, 24, 1300)
+Adaptive Repeated A* took, Large Values: (True, 12, 696)
+Backwards Repeated A* took, Small Values: (True, 120, 8690)
+Adaptive Repeated A* took, Small Values: (True, 57, 4243)
+
+Maze Number: 6
+Forwards Repeated A* took, Large Values: (True, 47, 2727)
+Forwards Repeated A* took, Small Values: (True, 168, 11827)
+Backwards Repeated A* took, Large Values: (True, 30, 1498)
+Adaptive Repeated A* took, Large Values: (True, 73, 4055)
+Backwards Repeated A* took, Small Values: (True, 181, 11984)
+Adaptive Repeated A* took, Small Values: (True, 230, 14392)
+
+Maze Number: 7
+Forwards Repeated A* took, Large Values: (True, 84, 3612)
+Forwards Repeated A* took, Small Values: (True, 518, 29800)
+Backwards Repeated A* took, Large Values: (True, 77, 3469)
+Adaptive Repeated A* took, Large Values: (True, 75, 3635)
+Backwards Repeated A* took, Small Values: (True, 875, 56660)
+Adaptive Repeated A* took, Small Values: (True, 607, 29392)
+
+Maze Number: 8
+Forwards Repeated A* took, Large Values: (True, 49, 1891)
+Forwards Repeated A* took, Small Values: (True, 329, 18371)
+Backwards Repeated A* took, Large Values: (True, 87, 4617)
+Adaptive Repeated A* took, Large Values: (True, 44, 1889)
+Backwards Repeated A* took, Small Values: (True, 418, 27020)
+Adaptive Repeated A* took, Small Values: (True, 311, 18385)
+
+Maze Number: 9
+Forwards Repeated A* took, Large Values: (True, 69, 3089)
+Forwards Repeated A* took, Small Values: (True, 1126, 65765)
+Backwards Repeated A* took, Large Values: (True, 75, 3623)
+Adaptive Repeated A* took, Large Values: (True, 62, 3074)
+Backwards Repeated A* took, Small Values: (True, 1707, 96648)
+Adaptive Repeated A* took, Small Values: (True, 1058, 65738)
+
+Maze Number: 10
+Forwards Repeated A* took, Large Values: (True, 31, 1486)
+Forwards Repeated A* took, Small Values: (True, 287, 18186)
+Backwards Repeated A* took, Large Values: (True, 34, 1726)
+Adaptive Repeated A* took, Large Values: (True, 30, 1480)
+Backwards Repeated A* took, Small Values: (True, 321, 19555)
+Adaptive Repeated A* took, Small Values: (True, 259, 18182)
+
+Maze Number: 11
+Forwards Repeated A* took, Large Values: (True, 55, 2674)
+Forwards Repeated A* took, Small Values: (True, 169, 11229)
+Backwards Repeated A* took, Large Values: (True, 72, 3688)
+Adaptive Repeated A* took, Large Values: (True, 53, 2387)
+Backwards Repeated A* took, Small Values: (True, 247, 15088)
+Adaptive Repeated A* took, Small Values: (True, 167, 11188)
+
+Maze Number: 12
+Forwards Repeated A* took, Large Values: (True, 42, 2026)
+Forwards Repeated A* took, Small Values: (True, 512, 33209)
+Backwards Repeated A* took, Large Values: (True, 86, 4204)
+Adaptive Repeated A* took, Large Values: (True, 42, 2026)
+Backwards Repeated A* took, Small Values: (True, 533, 33876)
+Adaptive Repeated A* took, Small Values: (True, 510, 33209)
+
+Maze Number: 13
+Forwards Repeated A* took, Large Values: (False, 295, 14518)
+Forwards Repeated A* took, Small Values: (False, 2390, 125278)
+Backwards Repeated A* took, Large Values: (False, 1, 1)
+Adaptive Repeated A* took, Large Values: (False, 302, 14183)
+Backwards Repeated A* took, Small Values: (False, 1, 1)
+Adaptive Repeated A* took, Small Values: (False, 2105, 113780)
+
+Maze Number: 14
+Forwards Repeated A* took, Large Values: (True, 8, 362)
+Forwards Repeated A* took, Small Values: (True, 52, 3466)
+Backwards Repeated A* took, Large Values: (True, 31, 513)
+Adaptive Repeated A* took, Large Values: (True, 17, 361)
+Backwards Repeated A* took, Small Values: (True, 153, 2678)
+Adaptive Repeated A* took, Small Values: (True, 259, 3465)
+
+Maze Number: 15
+Forwards Repeated A* took, Large Values: (True, 14, 592)
+Forwards Repeated A* took, Small Values: (True, 34, 1806)
+Backwards Repeated A* took, Large Values: (True, 14, 544)
+Adaptive Repeated A* took, Large Values: (True, 15, 581)
+Backwards Repeated A* took, Small Values: (True, 58, 2899)
+Adaptive Repeated A* took, Small Values: (True, 33, 1806)
+
+Maze Number: 16
+Forwards Repeated A* took, Large Values: (True, 42, 1783)
+Forwards Repeated A* took, Small Values: (True, 106, 5977)
+Backwards Repeated A* took, Large Values: (True, 53, 2385)
+Adaptive Repeated A* took, Large Values: (True, 39, 1681)
+Backwards Repeated A* took, Small Values: (True, 175, 10060)
+Adaptive Repeated A* took, Small Values: (True, 103, 5937)
+
+Maze Number: 17
+Forwards Repeated A* took, Large Values: (True, 36, 1729)
+Forwards Repeated A* took, Small Values: (True, 194, 12361)
+Backwards Repeated A* took, Large Values: (True, 26, 1286)
+Adaptive Repeated A* took, Large Values: (True, 32, 1567)
+Backwards Repeated A* took, Small Values: (True, 197, 13289)
+Adaptive Repeated A* took, Small Values: (True, 170, 11935)
+
+Maze Number: 18
+Forwards Repeated A* took, Large Values: (True, 28, 1343)
+Forwards Repeated A* took, Small Values: (True, 265, 15132)
+Backwards Repeated A* took, Large Values: (True, 20, 969)
+Adaptive Repeated A* took, Large Values: (True, 27, 1321)
+Backwards Repeated A* took, Small Values: (True, 166, 10314)
+Adaptive Repeated A* took, Small Values: (True, 257, 15132)
+
+Maze Number: 19
+Forwards Repeated A* took, Large Values: (True, 29, 1432)
+Forwards Repeated A* took, Small Values: (True, 347, 21680)
+Backwards Repeated A* took, Large Values: (True, 21, 1090)
+Adaptive Repeated A* took, Large Values: (True, 29, 1422)
+Backwards Repeated A* took, Small Values: (True, 181, 12553)
+Adaptive Repeated A* took, Small Values: (True, 315, 22097)
+
+Maze Number: 20
+Forwards Repeated A* took, Large Values: (True, 17, 868)
+Forwards Repeated A* took, Small Values: (True, 110, 7311)
+Backwards Repeated A* took, Large Values: (True, 10, 500)
+Adaptive Repeated A* took, Large Values: (True, 16, 811)
+Backwards Repeated A* took, Small Values: (True, 49, 3354)
+Adaptive Repeated A* took, Small Values: (True, 103, 7456)
+
+Maze Number: 21
+Forwards Repeated A* took, Large Values: (True, 17, 916)
+Forwards Repeated A* took, Small Values: (True, 40, 2942)
+Backwards Repeated A* took, Large Values: (True, 12, 763)
+Adaptive Repeated A* took, Large Values: (True, 16, 857)
+Backwards Repeated A* took, Small Values: (True, 55, 4046)
+Adaptive Repeated A* took, Small Values: (True, 39, 2919)
+
+Maze Number: 22
+Forwards Repeated A* took, Large Values: (True, 73, 4394)
+Forwards Repeated A* took, Small Values: (True, 320, 21974)
+Backwards Repeated A* took, Large Values: (True, 42, 2222)
+Adaptive Repeated A* took, Large Values: (True, 58, 3320)
+Backwards Repeated A* took, Small Values: (True, 277, 17248)
+Adaptive Repeated A* took, Small Values: (True, 299, 21050)
+
+Maze Number: 23
+Forwards Repeated A* took, Large Values: (True, 29, 1459)
+Forwards Repeated A* took, Small Values: (True, 419, 27883)
+Backwards Repeated A* took, Large Values: (True, 35, 1838)
+Adaptive Repeated A* took, Large Values: (True, 28, 1452)
+Backwards Repeated A* took, Small Values: (True, 167, 11482)
+Adaptive Repeated A* took, Small Values: (True, 417, 27681)
+
+Maze Number: 24
+Forwards Repeated A* took, Large Values: (True, 40, 1988)
+Forwards Repeated A* took, Small Values: (True, 525, 33574)
+Backwards Repeated A* took, Large Values: (True, 54, 2750)
+Adaptive Repeated A* took, Large Values: (True, 40, 1988)
+Backwards Repeated A* took, Small Values: (True, 1026, 67432)
+Adaptive Repeated A* took, Small Values: (True, 525, 33565)
+
+Maze Number: 25
+Forwards Repeated A* took, Large Values: (True, 21, 1111)
+Forwards Repeated A* took, Small Values: (True, 88, 6315)
+Backwards Repeated A* took, Large Values: (True, 32, 1687)
+Adaptive Repeated A* took, Large Values: (True, 19, 1049)
+Backwards Repeated A* took, Small Values: (True, 102, 6989)
+Adaptive Repeated A* took, Small Values: (True, 87, 6233)
+
+Maze Number: 26
+Forwards Repeated A* took, Large Values: (True, 32, 1612)
+Forwards Repeated A* took, Small Values: (True, 231, 16035)
+Backwards Repeated A* took, Large Values: (True, 47, 2482)
+Adaptive Repeated A* took, Large Values: (True, 32, 1657)
+Backwards Repeated A* took, Small Values: (True, 348, 24449)
+Adaptive Repeated A* took, Small Values: (True, 243, 16034)
+
+Maze Number: 27
+Forwards Repeated A* took, Large Values: (True, 80, 4210)
+Forwards Repeated A* took, Small Values: (True, 618, 43022)
+Backwards Repeated A* took, Large Values: (True, 29, 1849)
+Adaptive Repeated A* took, Large Values: (True, 71, 3812)
+Backwards Repeated A* took, Small Values: (True, 155, 11356)
+Adaptive Repeated A* took, Small Values: (True, 712, 47053)
+
+Maze Number: 28
+Forwards Repeated A* took, Large Values: (True, 1, 8)
+Forwards Repeated A* took, Small Values: (True, 1, 15)
+Backwards Repeated A* took, Large Values: (True, 1, 8)
+Adaptive Repeated A* took, Large Values: (True, 1, 8)
+Backwards Repeated A* took, Small Values: (True, 1, 15)
+Adaptive Repeated A* took, Small Values: (True, 1, 15)
+
+Maze Number: 29
+Forwards Repeated A* took, Large Values: (True, 74, 3649)
+Forwards Repeated A* took, Small Values: (True, 1105, 71182)
+Backwards Repeated A* took, Large Values: (True, 80, 3766)
+Adaptive Repeated A* took, Large Values: (True, 78, 3583)
+Backwards Repeated A* took, Small Values: (True, 1245, 70050)
+Adaptive Repeated A* took, Small Values: (True, 1121, 71171)
+
+Maze Number: 30
+Forwards Repeated A* took, Large Values: (False, 6, 361)
+Forwards Repeated A* took, Small Values: (False, 11, 925)
+Backwards Repeated A* took, Large Values: (False, 164, 11678)
+Adaptive Repeated A* took, Large Values: (False, 6, 336)
+Backwards Repeated A* took, Small Values: (False, 210, 12898)
+Adaptive Repeated A* took, Small Values: (False, 11, 909)
+
+Maze Number: 31
+Forwards Repeated A* took, Large Values: (True, 24, 1248)
+Forwards Repeated A* took, Small Values: (True, 40, 2741)
+Backwards Repeated A* took, Large Values: (True, 29, 1519)
+Adaptive Repeated A* took, Large Values: (True, 23, 1229)
+Backwards Repeated A* took, Small Values: (True, 71, 4992)
+Adaptive Repeated A* took, Small Values: (True, 38, 2711)
+
+Maze Number: 32
+Forwards Repeated A* took, Large Values: (True, 43, 2246)
+Forwards Repeated A* took, Small Values: (True, 272, 19018)
+Backwards Repeated A* took, Large Values: (True, 54, 2914)
+Adaptive Repeated A* took, Large Values: (True, 44, 2253)
+Backwards Repeated A* took, Small Values: (True, 301, 20853)
+Adaptive Repeated A* took, Small Values: (True, 268, 18937)
+
+Maze Number: 33
+Forwards Repeated A* took, Large Values: (True, 9, 458)
+Forwards Repeated A* took, Small Values: (True, 24, 1609)
+Backwards Repeated A* took, Large Values: (True, 22, 1213)
+Adaptive Repeated A* took, Large Values: (True, 9, 446)
+Backwards Repeated A* took, Small Values: (True, 52, 3610)
+Adaptive Repeated A* took, Small Values: (True, 22, 1529)
+
+Maze Number: 34
+Forwards Repeated A* took, Large Values: (True, 65, 3338)
+Forwards Repeated A* took, Small Values: (True, 293, 20264)
+Backwards Repeated A* took, Large Values: (True, 48, 3120)
+Adaptive Repeated A* took, Large Values: (True, 62, 3168)
+Backwards Repeated A* took, Small Values: (True, 66, 4593)
+Adaptive Repeated A* took, Small Values: (True, 281, 20142)
+
+Maze Number: 35
+Forwards Repeated A* took, Large Values: (True, 23, 1418)
+Forwards Repeated A* took, Small Values: (True, 74, 5459)
+Backwards Repeated A* took, Large Values: (True, 32, 2164)
+Adaptive Repeated A* took, Large Values: (True, 22, 1301)
+Backwards Repeated A* took, Small Values: (True, 62, 4711)
+Adaptive Repeated A* took, Small Values: (True, 70, 4998)
+
+Maze Number: 36
+Forwards Repeated A* took, Large Values: (True, 46, 2448)
+Forwards Repeated A* took, Small Values: (True, 395, 26144)
+Backwards Repeated A* took, Large Values: (True, 40, 2050)
+Adaptive Repeated A* took, Large Values: (True, 45, 2424)
+Backwards Repeated A* took, Small Values: (True, 301, 20739)
+Adaptive Repeated A* took, Small Values: (True, 404, 25995)
+
+Maze Number: 37
+Forwards Repeated A* took, Large Values: (True, 68, 3266)
+Forwards Repeated A* took, Small Values: (True, 304, 20655)
+Backwards Repeated A* took, Large Values: (True, 93, 4684)
+Adaptive Repeated A* took, Large Values: (True, 68, 3301)
+Backwards Repeated A* took, Small Values: (True, 474, 32842)
+Adaptive Repeated A* took, Small Values: (True, 296, 20700)
+
+Maze Number: 38
+Forwards Repeated A* took, Large Values: (True, 23, 1141)
+Forwards Repeated A* took, Small Values: (True, 217, 15225)
+Backwards Repeated A* took, Large Values: (True, 43, 2364)
+Adaptive Repeated A* took, Large Values: (True, 22, 1137)
+Backwards Repeated A* took, Small Values: (True, 336, 23858)
+Adaptive Repeated A* took, Small Values: (True, 237, 15223)
+
+Maze Number: 39
+Forwards Repeated A* took, Large Values: (True, 19, 1016)
+Forwards Repeated A* took, Small Values: (True, 35, 2452)
+Backwards Repeated A* took, Large Values: (True, 11, 579)
+Adaptive Repeated A* took, Large Values: (True, 33, 1939)
+Backwards Repeated A* took, Small Values: (True, 82, 5871)
+Adaptive Repeated A* took, Small Values: (True, 53, 4030)
+
+Maze Number: 40
+Forwards Repeated A* took, Large Values: (True, 50, 2543)
+Forwards Repeated A* took, Small Values: (True, 677, 45995)
+Backwards Repeated A* took, Large Values: (True, 47, 2315)
+Adaptive Repeated A* took, Large Values: (True, 49, 2522)
+Backwards Repeated A* took, Small Values: (True, 557, 38121)
+Adaptive Repeated A* took, Small Values: (True, 756, 49563)
+
+Maze Number: 41
+Forwards Repeated A* took, Large Values: (True, 96, 4986)
+Forwards Repeated A* took, Small Values: (True, 1144, 73181)
+Backwards Repeated A* took, Large Values: (True, 89, 4411)
+Adaptive Repeated A* took, Large Values: (True, 93, 4830)
+Backwards Repeated A* took, Small Values: (True, 1735, 113359)
+Adaptive Repeated A* took, Small Values: (True, 1406, 72998)
+
+Maze Number: 42
+Forwards Repeated A* took, Large Values: (True, 49, 2652)
+Forwards Repeated A* took, Small Values: (True, 454, 31888)
+Backwards Repeated A* took, Large Values: (True, 29, 1767)
+Adaptive Repeated A* took, Large Values: (True, 45, 2457)
+Backwards Repeated A* took, Small Values: (True, 112, 8063)
+Adaptive Repeated A* took, Small Values: (True, 460, 31693)
+
+Maze Number: 43
+Forwards Repeated A* took, Large Values: (True, 18, 932)
+Forwards Repeated A* took, Small Values: (True, 77, 5581)
+Backwards Repeated A* took, Large Values: (True, 14, 813)
+Adaptive Repeated A* took, Large Values: (True, 17, 921)
+Backwards Repeated A* took, Small Values: (True, 26, 1899)
+Adaptive Repeated A* took, Small Values: (True, 72, 5312)
+
+Maze Number: 44
+Forwards Repeated A* took, Large Values: (True, 31, 1644)
+Forwards Repeated A* took, Small Values: (True, 129, 8894)
+Backwards Repeated A* took, Large Values: (True, 100, 6553)
+Adaptive Repeated A* took, Large Values: (True, 30, 1598)
+Backwards Repeated A* took, Small Values: (True, 183, 13264)
+Adaptive Repeated A* took, Small Values: (True, 125, 8857)
+
+Maze Number: 45
+Forwards Repeated A* took, Large Values: (True, 32, 2173)
+Forwards Repeated A* took, Small Values: (True, 58, 4410)
+Backwards Repeated A* took, Large Values: (True, 12, 773)
+Adaptive Repeated A* took, Large Values: (True, 23, 1438)
+Backwards Repeated A* took, Small Values: (True, 29, 2199)
+Adaptive Repeated A* took, Small Values: (True, 47, 3578)
+
+Maze Number: 46
+Forwards Repeated A* took, Large Values: (True, 12, 647)
+Forwards Repeated A* took, Small Values: (True, 31, 2270)
+Backwards Repeated A* took, Large Values: (True, 13, 710)
+Adaptive Repeated A* took, Large Values: (True, 11, 602)
+Backwards Repeated A* took, Small Values: (True, 58, 4245)
+Adaptive Repeated A* took, Small Values: (True, 32, 2270)
+
+Maze Number: 47
+Forwards Repeated A* took, Large Values: (True, 105, 5312)
+Forwards Repeated A* took, Small Values: (True, 661, 43348)
+Backwards Repeated A* took, Large Values: (True, 59, 3015)
+Adaptive Repeated A* took, Large Values: (True, 104, 5133)
+Backwards Repeated A* took, Small Values: (True, 301, 20801)
+Adaptive Repeated A* took, Small Values: (True, 632, 43908)
+
+Maze Number: 48
+Forwards Repeated A* took, Large Values: (True, 27, 1908)
+Forwards Repeated A* took, Small Values: (True, 46, 3620)
+Backwards Repeated A* took, Large Values: (True, 17, 1047)
+Adaptive Repeated A* took, Large Values: (True, 22, 1357)
+Backwards Repeated A* took, Small Values: (True, 131, 9549)
+Adaptive Repeated A* took, Small Values: (True, 43, 3453)
+
+Maze Number: 49
