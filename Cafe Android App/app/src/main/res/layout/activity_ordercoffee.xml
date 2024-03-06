@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textAlignment="inherit">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="78dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="57dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="68dp"
+        android:singleLine="false"
+        android:text="@string/subTotal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/coffeeSubTotal"
+        app:layout_constraintHorizontal_bias="0.3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/coffeeQuantity"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Spinner
+        android:id="@+id/coffeeSize"
+        android:layout_width="183dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="56dp"
+        app:layout_constraintBottom_toTopOf="@+id/coffeeSubTotal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.931"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Spinner
+        android:id="@+id/coffeeQuantity"
+        android:layout_width="182dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="56dp"
+        app:layout_constraintBottom_toTopOf="@+id/coffeeSubTotal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.068"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <CheckBox
+        android:id="@+id/irishCream"
+        android:layout_width="103dp"
+        android:layout_height="68dp"
+        android:onClick="updateCoffee"
+        android:text="@string/irishCream"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.951"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.496"
+        tools:ignore="MissingConstraints" />
+
+    <CheckBox
+        android:id="@+id/caramel"
+        android:layout_width="121dp"
+        android:layout_height="65dp"
+        android:layout_marginBottom="28dp"
+        android:onClick="updateCoffee"
+        android:text="@string/caramel"
+        app:layout_constraintBottom_toTopOf="@+id/coffeeQuantity"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.795"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <CheckBox
+        android:id="@+id/mocha"
+        android:layout_width="95dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="152dp"
+        android:layout_marginBottom="32dp"
+        android:onClick="updateCoffee"
+        android:text="@string/mocha"
+        app:layout_constraintBottom_toTopOf="@+id/caramel"
+        app:layout_constraintEnd_toStartOf="@+id/irishCream"
+        app:layout_constraintHorizontal_bias="0.34"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.989"
+        tools:ignore="MissingConstraints" />
+
+    <CheckBox
+        android:id="@+id/frenchVanilla"
+        android:layout_width="126dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginBottom="28dp"
+        android:onClick="updateCoffee"
+        android:text="@string/frenchVanilla"
+        app:layout_constraintBottom_toTopOf="@+id/coffeeQuantity"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/orderCoffee"
+        android:textSize="38sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="248dp"
+        android:layout_height="236dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/mocha"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/order_coffee_stock"
+        tools:ignore="MissingConstraints" />
+
+    <CheckBox
+        android:id="@+id/sweetCream"
+        android:layout_width="115dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="36dp"
+        android:onClick="updateCoffee"
+        android:text="@string/sweetCream"
+        app:layout_constraintBottom_toTopOf="@+id/frenchVanilla"
+        app:layout_constraintEnd_toStartOf="@+id/mocha"
+        app:layout_constraintHorizontal_bias="0.035"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/coffeeSubTotal"
+        android:layout_width="74dp"
+        android:layout_height="29dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="628dp"
+        android:textAlignment="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/coffeeAdd"
+        android:layout_width="150dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="180dp"
+        android:onClick="coffeeAddToOrder"
+        android:text="@string/add"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.562"
+        app:layout_constraintStart_toEndOf="@+id/coffeeSubTotal"
+        app:layout_constraintTop_toTopOf="@+id/caramel"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

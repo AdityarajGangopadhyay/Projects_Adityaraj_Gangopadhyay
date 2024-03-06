@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="irishCream">Irish Cream</string>
+    <string name="sweetCream">Sweet Cream</string>
+    <string name="mocha">Mocha</string>
+    <string name="frenchVanilla">French Vanilla</string>
+    <string name="caramel">Caramel</string>
+    <string name="add">Add to Order</string>
+    <string name="orderCoffee">Order Coffee</string>
+    <string name="zeroDollars">$0.00</string>
+    <string name="subTotal">Sub-Total</string>
+    <string name="quantity">Select Quantity</string>
+    <string name="donuts">Order Donuts</string>
+    <string name="place">Place The Order</string>
+    <string name="tax">Sales Tax</string>
+    <string name="total">Total</string>
+    <string name="yourOrder">Your Order</string>
+    <string name="storeOrder">Store Order</string>
+    <string name="rutgersCafe">Rutgers Cafe</string>
+    <string name="donutName">Donut Name</string>
+    <string name="item">Item</string>
+    <string name="itemType">Item Type</string>
+    <string name="quantity1">Quantity</string>
+    <string name="price">Price</string>
+    <string name="orderContents">Order Contents:</string>
+    <string name="orderItem">Order Item</string>
+    <string name="totalPrice">Total Price:</string>
+    <string name="price1">Price:</string>
+    <string name="orderNumber">Order Number</string>
+</resources>
