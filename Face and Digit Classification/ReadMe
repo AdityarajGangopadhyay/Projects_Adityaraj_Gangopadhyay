@@ -1,0 +1,11 @@
+dataClassifer.py is the main file.
+
+For the Demo testing:
+
+python3 dataClassifier.py -d faces -c perceptron -s 150
+python3 dataClassifier.py -d digits -c perceptron -s 1000
+python3 dataClassifier.py -d faces -c neural -s 150
+python3 dataClassifier.py -d digits -c neural -s 1000
+
+If you want to train then: -t (number of data to test on)
+451 max for faces, 5000 max for digits
